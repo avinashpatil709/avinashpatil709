@@ -7,10 +7,12 @@
 - 💬 Ask me about <br/> *Web Designing: HTML5, CSS3, JavaScript, WordPress, Bootstrap 5, PHP, React JS, Tailwind CSS, jQuery, Ajax, Figma, Xampp, VSCode, Dreamweaver, Git & Github, SEO, Google Analytic, CPanel&WHM, Different Hosting Platform, Sentora, Webmin. <br/> *Database: MySQL, MariaDB <br/> *DTP/Print Media: CorelDraw, Photoshop, Illustrator, InDesign, PremierPro, AfterEffect <br/> *MS Office: Word, Excel & PowerPoint
 
 - 📫 How to reach me **avinashpatil709@gmail.com**<br/>
-<b align="left">Connect with me:</b>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/avinash-patil-78a1a27b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/avinash-patil-78a1a27b/" height="20" width="20" /></a>
-<a href="https://www.behance.net/https://www.behance.net/avinashpatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/avinashpatil" height="20" width="20" /></a>
+
+<p align="left"><b align="left">Connect with me:</b>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/avinash-patil-78a1a27b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/avinash-patil-78a1a27b/" height="15" width="15" /></a>
+<a href="https://www.behance.net/https://www.behance.net/avinashpatil" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/avinashpatil" height="15" width="15" />
+</a>
 </p>
 
 
