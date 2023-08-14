@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashpatil709&label=Profile%20views&color=0e75b6&style=flat" alt="avinashpatil709" /> </p>
 
-- 💬 Ask me about *Web Designing: HTML5, CSS3, JavaScript, WordPress, Bootstrap 5, PHP, React JS, Tailwind CSS, jQuery, Ajax, Figma, Xampp, VSCode, Dreamweaver, Git & Github, SEO, Google Analytic, CPanel&WHM, Different Hosting Platform, Sentora, Webmin. | *Database: MySQL, MariaDB | *DTP/Print Media: CorelDraw, Photoshop, Illustrator, InDesign, PremierPro, AfterEffect | *MS Office: Word, Excel & PowerPoint
+- 💬 Ask me about *Web Designing: HTML5, CSS3, JavaScript, WordPress, Bootstrap 5, PHP, React JS, Tailwind CSS, jQuery, Ajax, Figma, Xampp, VSCode, Dreamweaver, Git & Github, SEO, Google Analytic, CPanel&WHM, Different Hosting Platform, Sentora, Webmin. | *Database: MySQL, MariaDB | *DTP/Print Media: CorelDraw, Photoshop, Illustrator, InDesign, PremierPro, AfterEffect | *MS Office: Word, Excel & PowerPoint*
 
 - 📫 How to reach me **avinashpatil709@gmail.com**
 
