@@ -6,7 +6,11 @@
 
 - 💬 Ask me about <br/> *Web Designing: HTML5, CSS3, JavaScript, WordPress, Bootstrap 5, PHP, React JS, Tailwind CSS, jQuery, Ajax, Figma, Xampp, VSCode, Dreamweaver, Git & Github, SEO, Google Analytic, CPanel&WHM, Different Hosting Platform, Sentora, Webmin. <br/> *Database: MySQL, MariaDB <br/> *DTP/Print Media: CorelDraw, Photoshop, Illustrator, InDesign, PremierPro, AfterEffect <br/> *MS Office: Word, Excel & PowerPoint
 
-- 📫 How to reach me **avinashpatil709@gmail.com**
+- 📫 How to reach me **avinashpatil709@gmail.com** ![image](https://github.com/avinashpatil709/avinashpatil709/assets/141939151/83d06235-3a71-4f05-aad4-a421a4a3b690)
+linkedin.com/in/avinash-patil-78a1a
+27b/
+Bê behance.net/avinashpatil
+
 
 
 <h3 align="left">Languages and Tools:</h3>
