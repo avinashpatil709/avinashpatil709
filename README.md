@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Avinash Patil 
-<div style="float:right; right:50; top:50;"> <a href="https://www.linkedin.com/in/avinash-patil-78a1a27b/" target="_blank" >
+<span> <a href="https://www.linkedin.com/in/avinash-patil-78a1a27b/" target="_blank" >
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin profile" height="15" width="15" /></a> 
     <a href="https://www.behance.net/avinashpatil" target="_blank" >
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="behance portfolio" height="15" width="15" />
-</a></div></h1>
+</a></span></h1>
 
 <h3 align="center">A passionate <br>Frontend developer | WordPress developer | Graphic designer | Creative head <br/>___ Pune, India ___</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
