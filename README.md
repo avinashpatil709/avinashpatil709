@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Avinash Patil 
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/avinash-patil-78a1a27b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/avinash-patil-78a1a27b/" height="15" width="15" /></a> 
-    <a href="https://www.behance.net/https://www.behance.net/avinashpatil" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/avinashpatil" height="15" width="15" />
+    <a href="https://www.linkedin.com/in/avinash-patil-78a1a27b/" target="_new">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin profile" height="15" width="15" /></a> 
+    <a href="https://www.behance.net/avinashpatil" target="_new">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="behance portfolio" height="15" width="15" />
 </a>
 </h1>
 <h3 align="center">A passionate <br>Frontend developer | WordPress developer | Graphic designer | Creative head <br/>from Pune, India</h3>
