@@ -4,7 +4,7 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="behance portfolio" height="15" width="15" />
 </a></h1>
 
-<h3 align="center">Frontend developer | WordPress developer | Graphic designer | Creative head <br> •┈••✦ ❤ Pune, India ✦••┈•</h3>
+<h3 align="center">Frontend developer | WordPress developer | Graphic designer | Creative head <br><div style="margin-top:10px;"> •┈••✦ ❤ Pune, India ✦••┈•</div></h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashpatil709&label=Profile%20views&color=0e75b6&style=flat" alt="avinashpatil709" /> </p>
@@ -14,7 +14,7 @@
 - 📫 How to reach me **avinashpatil709@gmail.com**
 - 🌐 Live Website Projects : <a href="https://quickquoteplus.com/" target="_blank">1</a> <a href="https://avinashpatil709.github.io/Hotel-Website-Development/"  target="_blank">2</a> <a href="https://newsandblogging.com/" target="_blank">3</a> <a href="https://skynestaffiliates.com/" target="_blank">4</a> <a href="https://yearwhat.com/" target="_blank">5</a> <a href="https://avinashpatil709.github.io/Static-Website-Design-and-Develop/" target="_blank">6</a>  <a href="https://avinashpatil709.github.io/Static-Website-Design-and-Develop/" target="_blank">7</a>  <a href="https://avinashpatil709.github.io/Foodies-Website-Design-Template/" target="_blank">8</a>  <a href="https://avinashpatil709.github.io/Landing-Page-MultiStep-Form/" target="_blank">9</a>   <a href="https://open-networking.co/" target="_blank">10</a>
 
-- 
+
 </p>
 
 
