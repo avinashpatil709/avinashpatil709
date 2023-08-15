@@ -4,7 +4,7 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="behance portfolio" height="15" width="15" />
 </a></h1>
 
-<h3 align="center">Frontend developer | WordPress developer | Graphic designer | Creative head <br><div style="margin-top:10px;"> •┈••✦ ❤ Pune, India ✦••┈•</div></h3>
+<h3 align="center">Frontend developer | WordPress developer | Graphic designer | Creative head <br> <br> •┈••✦ ❤ Pune, India ✦••┈•</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashpatil709&label=Profile%20views&color=0e75b6&style=flat" alt="avinashpatil709" /> </p>
