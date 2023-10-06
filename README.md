@@ -1,6 +1,4 @@
-<h1>sdfsd</h1>
-<h1><div align="center">Hi 👋, I'm Avinash Patil </div></h1>
-
+<h1><div align="center" style="color:#000; text-decoration:none;">Hi 👋, I'm Avinash Patil </div></h1>
 <h3 align="center">Frontend developer | WordPress developer | Graphic designer | Creative head <br> <br> •┈••✦ ❤ Pune, India ✦••┈•</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
