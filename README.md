@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Avinash Patil  <a href="https://www.linkedin.com/in/avinash-patil-78a1a27b/" target="_blank" >
+<h1 align="center" style="text-decoration:none;">Hi 👋, I'm Avinash Patil  <a style="text-decoration:none;" href="https://www.linkedin.com/in/avinash-patil-78a1a27b/" target="_blank" >
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin profile" height="15" width="15" /></a> 
-    <a href="https://www.behance.net/avinashpatil" target="_blank" >
+    <a style="text-decoration:none;" href="https://www.behance.net/avinashpatil" target="_blank" >
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="behance portfolio" height="15" width="15" />
 </a></h1>
 
